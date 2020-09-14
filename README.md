@@ -1,5 +1,5 @@
 # zTiddlyWiki
-zf200914.1504
+zf200914.1512
 
 # Petit Wiki embarqué supportant le MarkDown
 
@@ -16,6 +16,12 @@ Marche aussi très bien sur une smartphone en offline !
 # Utilisation
 
 Simplement ouvrir avec un browser ce fichier:
+
+https://zuzu59.github.io/zTiddlyWiki/tiddlywiki_md.html
+
+N'oubliez **PAS** après, de **sauvegarder** votre document avec le petit *(v)* en haut à droite !
+
+![Image](https://raw.githubusercontent.com/zuzu59/zTiddlyWiki/master/img1.png)
 
 
 
